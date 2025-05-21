@@ -31,7 +31,7 @@ Welcome to the Cybersecurity Learning Roadmap! This guide is designed to help yo
 **Resources:**
 - [Networking Basics by Cisco Networking Academy](https://netacad.com/courses/networking-basics)
 - [Computer Networking: Principles, Protocols, and Practice](https://www.cnp3book.info/)
-- [Introduction to Networking by EdX](https://www.www.learnedx.org/course/course-v1:LinuxFoundationX+LFS165x+1T2023/home)
+- [Introduction to Networking by EdX](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS165x+1T2023/home?audit_mode=)
 
 ### 1.3 Operating Systems Fundamentals
 **Goal:** Learn about different operating systems, their architecture, and basic security concepts.
