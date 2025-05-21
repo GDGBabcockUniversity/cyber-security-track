@@ -29,9 +29,9 @@ Welcome to the Cybersecurity Learning Roadmap! This guide is designed to help yo
 - Introduction to Network Security Concepts
 
 **Resources:**
-- [Networking Basics by Cisco Networking Academy](https://www.cisco.com/c/en/us/training-events/training-certifications/courses/online/learn-networking-basics.html)
+- [Networking Basics by Cisco Networking Academy](https://netacad.com/courses/networking-basics)
 - [Computer Networking: Principles, Protocols, and Practice](https://www.cnp3book.info/)
-- [Introduction to Networking by EdX](https://www.edx.org/course/introduction-to-computer-networking)
+- [Introduction to Networking by EdX](https://www.www.learnedx.org/course/course-v1:LinuxFoundationX+LFS165x+1T2023/home)
 
 ### 1.3 Operating Systems Fundamentals
 **Goal:** Learn about different operating systems, their architecture, and basic security concepts.
